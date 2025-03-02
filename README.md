@@ -1,8 +1,7 @@
 # Sales-Data-Analysis
 
 # 📈 Sales Data Analysis & Forecasting  
-
-![Sales Banner]([https://your-image-link.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Funblast.com%2Fsales-promotion-banner-templates%2F&psig=AOvVaw12grinuXjtkYlFUkoXjOJ7&ust=1740999539360000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCrxfWe64sDFQAAAAAdAAAAABAE))  
+ 
 
 ## 📌 Project Overview  
 This project analyzes sales trends using **Python, Pandas, Matplotlib, Seaborn, Plotly, and Prophet**. It includes:  
